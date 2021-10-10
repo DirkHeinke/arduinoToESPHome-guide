@@ -126,7 +126,7 @@ public:
 
 We use the `add_on_state_callback` function on the passed inputs to set our variables whenever a new value is received by ESPHome. The rest of the code is unchanged but wrapped in a new class which extends the ESPHome Component class. The complete ESPHome project is in the folder `esphome`
 
-When everything is complied and uploaded, you can now add the device to Home Assistant and you should see these controls:
+When everything is compiled and uploaded, you can now add the device to Home Assistant and you should see these controls:
 
 ![](HomeAssistantControls.png)
 
